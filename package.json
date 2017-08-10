@@ -1,0 +1,19 @@
+{
+  "name": "fieldwire",
+  "version": "1.0.0",
+  "description": "application for FieldWire code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxiang77/fileStorage.git"
+  },
+  "author": "Zili Xiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxiang77/fileStorage/issues"
+  },
+  "homepage": "https://github.com/zxiang77/fileStorage#readme"
+}
